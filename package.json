@@ -38,10 +38,12 @@
   "dependencies": {
     "async": "^3.2.3",
     "deepmerge": "^4.2.2",
-    "mermaid": "^9.0.0",
+    "mermaid": "^9.0.1",
     "puppeteer": "^13.6.0",
     "remark-parse": "^10.0.1",
-    "unified": "^10.1.2"
+    "remark-stringify": "^10.0.2",
+    "unified": "^10.1.2",
+    "unist-util-visit": "^4.1.0"
   },
   "peerDependencies": {
     "metalsmith": "^2.4.0"
