@@ -36,7 +36,6 @@
     "test:junit": "JEST_JUNIT_OUTPUT=reports/junit/results.xml node --experimental-vm-modules ./node_modules/.bin/jest --ci --runInBand --reporters=default --reporters=jest-junit"
   },
   "dependencies": {
-    "@jest/globals": "^27.5.1",
     "async": "^3.2.3",
     "deepmerge": "^4.2.2",
     "mermaid": "^9.0.1",
