@@ -1,5 +1,7 @@
 # metalsmith-mermaid
 
+**⚠️ This repistory has been moved to [metalsmith-plugins](https://github.com/emmercm/metalsmith-plugins/tree/main/packages/metalsmith-mermaid). ⚠️**
+
 [![npm Version](https://badgen.net/npm/v/metalsmith-mermaid?icon=npm)](https://www.npmjs.com/package/metalsmith-mermaid)
 [![npm Weekly Downloads](https://badgen.net/npm/dw/metalsmith-mermaid)](https://www.npmjs.com/package/metalsmith-mermaid)
 
